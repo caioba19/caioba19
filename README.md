@@ -3,9 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 
-<h2 align="left">Hi 👋! My name is Caio Vinicius and I'm programador, i from Salvador Brazil</h2>
-
-Sou Caio Vinícius, estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em informática. Apaixonado por tecnologia, programação e desenvolvimento web, venho construindo minha trajetória com foco em Python, HTML, CSS, JavaScript, Java, SQL e C. Acredito no aprendizado constante e no desenvolvimento de projetos práticos como forma de evoluir e gerar impacto através da tecnologia.
+<h2 align="left">Hi 👋! My name is Caio Vinicius, and I’m a Software Development student from Salvador, Brazil, with a technical background in IT. I’m passionate about technology, programming, and web development, and I’ve been building my journey with a focus on Python, HTML, CSS, JavaScript, Java, SQL, and C. I believe in continuous learning and developing practical projects as a way to grow professionally and create impact through technology.</h2>
 
 ###
 
