@@ -12,6 +12,10 @@ tá ficando assim :
 
 ###
 
+<div align="left">
+<a href="https://youtube.com/@caiovinicius881?si=yEYwSqvbXnB22H8N"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/></a><a href="https://www.instagram.com/_caio.vn/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35"/></a><a href="https://discord.com/invite/AdfjnhAzPg"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35"/></a><a href="https://www.linkedin.com/in/caio-vinicius-santos-da-costa-leite-13a4bb38a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/></a><a href="mailto:caiov19.2015@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/></a><a href="https://api.whatsapp.com/send/?phone=5571985181855"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="35"/></a>
+</div>
+
 <div align="left"> 
 <a href="https://youtube.com/@caiovinicius881?si=yEYwSqvbXnB22H8N">
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"/>
