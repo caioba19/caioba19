@@ -1,4 +1,3 @@
-tá ficando assim :
 # 👩🏻‍💻 Caio Vinicius
 
 **`Full Stack Developer`**
