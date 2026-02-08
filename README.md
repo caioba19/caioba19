@@ -36,13 +36,3 @@ tá ficando assim :
 <a href="mailto:caiov19.2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/caio-vinicius-santos-da-costa-leite-13a4bb38a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-### 📊 Estatísticas
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioba19&layout=compact&theme=tokyonight"
-/>
