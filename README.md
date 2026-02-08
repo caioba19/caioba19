@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx)"  />
+<img align="right" height="150" src="file:///C:/Users/caiov/Downloads/M9gbBd9nbDrOTu1Mqx.webp"  />
 
 ###
 
