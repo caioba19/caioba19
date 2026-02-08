@@ -1,7 +1,7 @@
 tá ficando assim :
 # 👩🏻‍💻 Caio Vinicius
 
-**`Desenvolvedora FullStack`**
+**`Full Stack Developer`**
 
 
 <h4 align="left">Hi 👋! My name is Caio Vinicius, and I’m a Software Development student from Salvador, Brazil, with a technical background in IT. I’m passionate about technology, programming, and web development, and I’ve been building my journey with a focus on Python, HTML, CSS, JavaScript, Java, SQL, and C. I believe in continuous learning and developing practical projects as a way to grow professionally and create impact through technology.</h4>
