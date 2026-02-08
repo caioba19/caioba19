@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="[file:///C:/Users/caiov/Downloads/M9gbBd9nbDrOTu1Mqx.webp](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NtZGZoYjRtbng2a3UzZTZyNXJmbWVtcDU3bW1nNmttMWw2d3FhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NtZGZoYjRtbng2a3UzZTZyNXJmbWVtcDU3bW1nNmttMWw2d3FhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
