@@ -5,6 +5,8 @@
 
 <h2 align="left">Hi 👋! My name is Caio Vinicius and I'm programador, i from Salvador Brazil</h2>
 
+Sou Caio Vinícius, estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em informática. Apaixonado por tecnologia, programação e desenvolvimento web, venho construindo minha trajetória com foco em Python, HTML, CSS, JavaScript, Java, SQL e C. Acredito no aprendizado constante e no desenvolvimento de projetos práticos como forma de evoluir e gerar impacto através da tecnologia.
+
 ###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NtZGZoYjRtbng2a3UzZTZyNXJmbWVtcDU3bW1nNmttMWw2d3FhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
