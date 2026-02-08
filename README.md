@@ -37,5 +37,14 @@ tá ficando assim :
 <a href="https://www.linkedin.com/in/caio-vinicius-santos-da-costa-leite-13a4bb38a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+### 📊 Estatísticas
 
+<img 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
+<img 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioba19&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
