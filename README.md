@@ -14,7 +14,7 @@ Hey there! I'm **Caio Vinicius**, a Software Development student from **Salvador
 
 I'm passionate about creating things that are both **functional and beautiful**, with a growing focus on **web & mobile development**. I believe the best way to learn is by shipping real projects.
 
-- 🔭 Currently building: **CodeForge** (a browser-based IDE) & a **Naruto fan encyclopedia**
+- 🔭 Currently building 
 - 🌱 Deepening my skills in: **React**, **TypeScript** and **full-stack architecture**
 - 💬 Ask me about: web development, project structure, or anime
 - 📍 Based in: Salvador, Bahia, Brazil
