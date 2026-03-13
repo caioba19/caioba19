@@ -92,7 +92,11 @@ I'm passionate about creating things that are both **functional and beautiful**,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 **"Code is not just logic — it's craft."**
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake.svg"/>
+</picture>
 ![Profile Views](https://komarev.com/ghpvc/?username=Caio-dev00&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
