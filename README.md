@@ -38,11 +38,9 @@ I'm passionate about creating things that are both **functional and beautiful**,
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -61,16 +59,6 @@ I'm passionate about creating things that are both **functional and beautiful**,
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-dev00&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**CodeForge**](https://code-forge-seven.vercel.app/) | Browser-based IDE with multi-language support and VSCode-inspired layout | React, Vite, Pyodide |
-| **Naruto Encyclopedia** | Fan encyclopedia with character profiles, Jikan API integration and smooth UX | HTML, CSS, JS, REST API |
-| **Portfolio** | Personal portfolio showcasing projects and skills | HTML, CSS |
 
 ---
 
