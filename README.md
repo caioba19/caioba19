@@ -100,3 +100,9 @@ I'm passionate about creating things that are both **functional and beautiful**,
 ![Profile Views](https://komarev.com/ghpvc/?username=Caio-dev00&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
