@@ -46,19 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-dev00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-dev00&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-dev00&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ### 🌐 Let's Connect
 
 <div align="center">
