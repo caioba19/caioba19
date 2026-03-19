@@ -97,6 +97,3 @@ I'm passionate about creating things that are both **functional and beautiful**,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake.svg"/>
 </picture>
-![Profile Views](https://komarev.com/ghpvc/?username=Caio-dev00&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
