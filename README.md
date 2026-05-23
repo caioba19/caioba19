@@ -35,7 +35,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-🌌_Easter_Egg-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-Easter_Egg-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
