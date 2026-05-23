@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Caio%20Vinicius&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Salvador%2C%20Brazil&descAlignY=55&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+new+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
