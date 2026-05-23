@@ -78,9 +78,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake.svg"/>
 </picture>
 
-*"Code is not just logic — it's craft."*
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioba19&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<div align="center">
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**"Code is not just logic — it's craft."**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake.svg"/>
+</picture>
