@@ -80,6 +80,7 @@
 
 *"Code is not just logic — it's craft."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioba19&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
