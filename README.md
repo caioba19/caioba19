@@ -53,6 +53,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=caioba19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=caioba19&theme=tokyonight&no-frame=true&row=1&column=6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caioba19&theme=tokyo-night&hide_border=true)
+
 </div>
 
 ---
