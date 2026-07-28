@@ -48,12 +48,7 @@
 
 <img src="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioba19&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=caioba19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=caioba19&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caioba19&theme=tokyo-night&hide_border=true)
 
