@@ -47,7 +47,10 @@
 </div>
 
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake.svg"/>
+</picture>
 <img src="https://raw.githubusercontent.com/caioba19/caioba19/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=caioba19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
