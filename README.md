@@ -14,7 +14,7 @@
 <tr>
 <td width="420">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/caioba19/caioba19/main/assets/dot_art.svg" width="400"/>
 
 </td>
 <td valign="top">
