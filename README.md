@@ -14,12 +14,9 @@
 <table>
 <tr>
 <td width="420">
-
 <img src="https://raw.githubusercontent.com/caioba19/caioba19/main/assets/dot_art.svg" width="400"/>
-
 </td>
 <td valign="top">
-
 ```
 SYSTEM.INFO
 ───────────────────────────────
@@ -28,28 +25,27 @@ Role       : Full Stack Developer
 Origin     : Salvador, BA - Brasil
 Education  : ADS @ UniJorge
 Status     : Open to freelance
-ToolChain  : ...
-
+ToolChain  : VS Code, IntelliJ, PyCharm
+ 
 Core.Lang     : JS/TS, Java, C, Python
 Core.Front    : HTML, CSS, React
 Core.Backend  : Node.js, Express
 Core.Database : MySQL
 Core.Infra    : Git, GitHub, Vercel
-
-───────────────────────────────
-Contact
-───────────────────────────────
-Grid.Mail     : caiov19.2015@gmail.com
-Grid.Linkedin : /in/caio-vinicius...
-Grid.GitHub   : github.com/caioba19
-Grid.Instagram: @_caio.vn
-
-> More about me below ↓
 ```
-
+ 
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" width="100%"/>
 </td>
 </tr>
 </table>
+<div align="center">
+<a href="mailto:caiov19.2015@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/caio-vinicius-santos-da-costa-leite-13a4bb38a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/caioba19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/_caio.vn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ 
 
 </div>
 
