@@ -36,7 +36,7 @@ Core.Database : MySQL
 Core.Infra    : Git, GitHub, Vercel
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight" width="100%"/>
 
 </td>
 </tr>
