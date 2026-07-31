@@ -35,9 +35,6 @@ Core.Backend  : Node.js, Express
 Core.Database : MySQL
 Core.Infra    : Git, GitHub, Vercel
 </pre>
-
-<img src="https://github-readme-stats.vercel.app/api?username=caioba19&show_icons=true&theme=tokyonight" width="100%"/>
-
 </td>
 </tr>
 </table>
