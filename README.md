@@ -6,6 +6,8 @@
 
 </div>
 
+
+<img src="https://raw.githubusercontent.com/caioba19/caioba19/main/assets/dot_art.svg" width="400"/>
 ---
 
 ## 🛠️ Tech Stack
