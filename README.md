@@ -5,9 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+new+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
-
-
-<img src="https://raw.githubusercontent.com/caioba19/caioba19/main/assets/dot_art.svg" width="400"/>
 ---
 
 ## 🛠️ Tech Stack
