@@ -71,6 +71,23 @@
 
 ---
 
+<h2>🌍 Open to Opportunities</h2>
+<pre>
+Roles:
+- Systems Analysis and Development
+- Full Stack Developer
+- Backend (Node.js / .Net)
+- Frontend (React / Next.js)
+Model:
+- Remote
+- Hybrid
+- On-site
+Location:
+Salvador, BA — Brazil
+</pre>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
