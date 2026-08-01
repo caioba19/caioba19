@@ -27,6 +27,36 @@
 </div>
 
 ---
+<h2>✨ Meus Diferenciais</h2>
+
+<table>
+  <tr>
+    <th align="left">Característica</th>
+    <th align="left">Aplicação Prática</th>
+  </tr>
+  <tr>
+    <td><b>Foco em Entrega de Valor</b></td>
+    <td>Desenvolvimento orientado a resultados práticos e objetivos do projeto</td>
+  </tr>
+  <tr>
+    <td><b>Pensamento Analítico</b></td>
+    <td>Capacidade de decompor problemas complexos em soluções simples e eficientes</td>
+  </tr>
+  <tr>
+    <td><b>Colaboração Técnica</b></td>
+    <td>Habilidade em trabalhar em equipe e documentar processos de forma clara</td>
+  </tr>
+  <tr>
+    <td><b>Evolução Contínua</b></td>
+    <td>Constante atualização com as tendências e melhores práticas do mercado</td>
+  </tr>
+  <tr>
+    <td><b>Comprometimento</b></td>
+    <td>Entrega consistente de código de qualidade dentro dos prazos estabelecidos</td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
