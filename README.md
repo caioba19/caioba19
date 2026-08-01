@@ -10,34 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="420">
 
-<img src="https://raw.githubusercontent.com/caioba19/caioba19/main/assets/dot_art.svg" width="400"/>
-
-</td>
-<td valign="top">
-
-<pre>
-SYSTEM.INFO
-───────────────────────────────
-Subject    : Caio Vinicius
-Role       : Full Stack Developer
-Origin     : Salvador, BA - Brasil
-Education  : ADS @ UniJorge
-Status     : Open to freelance
-ToolChain  : VS Code, IntelliJ, PyCharm
-
-Core.Lang     : JS/TS, Java, C, Python
-Core.Front    : HTML, CSS, React
-Core.Backend  : Node.js, Express
-Core.Database : MySQL
-Core.Infra    : Git, GitHub, Vercel
-</pre>
-</td>
-</tr>
-</table>
 ---
 
 ## 📊 GitHub Stats
