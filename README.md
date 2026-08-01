@@ -72,8 +72,8 @@
 ---
 
 <h2>🌍 Open to Opportunities</h2>
-<pre>
-  
+
+<pre>  
 Roles:
 - Systems Analysis and Development
 - Full Stack Developer
@@ -84,6 +84,7 @@ Model:
 - Remote
 - Hybrid
 - On-site
+  
 Location:
 Salvador, BA — Brazil
 </pre>
