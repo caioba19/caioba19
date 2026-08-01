@@ -27,32 +27,31 @@
 </div>
 
 ---
-<h2>✨ Meus Diferenciais</h2>
-
+<h2>✨ What Sets Me Apart</h2>
 <table>
   <tr>
-    <th align="left">Característica</th>
-    <th align="left">Aplicação Prática</th>
+    <th align="left">Trait</th>
+    <th align="left">In Practice</th>
   </tr>
   <tr>
-    <td><b>Foco em Entrega de Valor</b></td>
-    <td>Desenvolvimento orientado a resultados práticos e objetivos do projeto</td>
+    <td><b>Value-Driven Delivery</b></td>
+    <td>Development focused on practical outcomes and project goals</td>
   </tr>
   <tr>
-    <td><b>Pensamento Analítico</b></td>
-    <td>Capacidade de decompor problemas complexos em soluções simples e eficientes</td>
+    <td><b>Analytical Thinking</b></td>
+    <td>Ability to break down complex problems into simple, efficient solutions</td>
   </tr>
   <tr>
-    <td><b>Colaboração Técnica</b></td>
-    <td>Habilidade em trabalhar em equipe e documentar processos de forma clara</td>
+    <td><b>Technical Collaboration</b></td>
+    <td>Strong teamwork skills and clear process documentation</td>
   </tr>
   <tr>
-    <td><b>Evolução Contínua</b></td>
-    <td>Constante atualização com as tendências e melhores práticas do mercado</td>
+    <td><b>Continuous Growth</b></td>
+    <td>Constantly keeping up with market trends and best practices</td>
   </tr>
   <tr>
-    <td><b>Comprometimento</b></td>
-    <td>Entrega consistente de código de qualidade dentro dos prazos estabelecidos</td>
+    <td><b>Commitment</b></td>
+    <td>Consistent delivery of quality code within set deadlines</td>
   </tr>
 </table>
 
