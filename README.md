@@ -10,6 +10,21 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/caioba19/caioba19/main/assets/visual_map.png" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<a href="mailto:caiov19.2015@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/caio-vinicius-santos-da-costa-leite-13a4bb38a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/caioba19" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/_caio.vn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</div>
 
 ---
 
