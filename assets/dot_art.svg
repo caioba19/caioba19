@@ -22507,7 +22507,7 @@
 <text x="500" y="264" font-family="Fira Code, monospace" font-size="14" fill="#5c9dff">Status     :</text>
 <text x="601" y="264" font-family="Fira Code, monospace" font-size="14" fill="#e6e6e6"> Open to freelance</text>
 <text x="500" y="288" font-family="Fira Code, monospace" font-size="14" fill="#5c9dff">ToolChain  :</text>
-<text x="601" y="288" font-family="Fira Code, monospace" font-size="14" fill="#e6e6e6"> VS Code, IntelliJ, PyCharm</text>
+<text x="601" y="288" font-family="Fira Code, monospace" font-size="14" fill="#e6e6e6"> VS Code, IntelliJ, PyCharm , CLion , WebStorm</text>
 <text x="500" y="332" font-family="Fira Code, monospace" font-size="14" fill="#5c9dff">Core.Lang     :</text>
 <text x="626" y="332" font-family="Fira Code, monospace" font-size="14" fill="#e6e6e6"> JS/TS, Java, C, Python</text>
 <text x="500" y="356" font-family="Fira Code, monospace" font-size="14" fill="#5c9dff">Core.Front    :</text>
