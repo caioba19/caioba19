@@ -10,12 +10,6 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/caioba19/caioba19/main/assets/dot_art.svg" width="80%"/>
-
-</div>
-
 ---
 <h2>✨ What Sets Me Apart</h2>
 <table>
