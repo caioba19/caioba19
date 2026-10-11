@@ -29,7 +29,7 @@
     <td>Open to freelance</td>
   </tr>
   <tr>
-    <td align="right"><b>Linguagens</b></td>
+    <td align="right"><b>Languages</b></td>
     <td><img src="https://skillicons.dev/icons?i=js,ts,java,c,py&theme=dark" /></td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@
     <td><img src="https://skillicons.dev/icons?i=ts,nodejs,java,express,py&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Banco</b></td>
+    <td align="right"><b>Database</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
       <img src="https://img.shields.io/badge/Aiven-FF3554?style=flat-square&logo=aiven&logoColor=white" />
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="right"><b>Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></td>
   </tr>
   <tr>
     <td align="right"><b>Deploy</b></td>
@@ -115,7 +115,7 @@
 Roles:
 - Systems Analysis and Development
 - Full Stack Developer
-- Backend (Node.js / .Net)
+- Backend (Node.js)
 - Frontend (React / Next.js)
 
 Model:
