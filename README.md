@@ -34,11 +34,11 @@
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,js,ts&theme=dark" /></td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,node,java,express,py&theme=dark" /></td>
   </tr>
   <tr>
     <td align="right"><b>Banco</b></td>
