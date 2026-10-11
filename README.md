@@ -9,7 +9,7 @@
 ---
 ## 🛠️ Tech Stack
 
-
+```
 ╭─ SYSTEM.INFO ──────────────────────────────╮
 │                                            │
 │ Subject    : Caio Vinicius                 │
@@ -34,7 +34,7 @@
 │ Grid.Instagram  : @_caio.vn                │
 │                                            │
 ╰────────────────────────────────────────────╯
-
+```
 ---
 <h2>✨ What Sets Me Apart</h2>
 <table>
