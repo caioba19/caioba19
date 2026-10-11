@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,node,java,express,py&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,nodejs,java,express,py&theme=dark" /></td>
   </tr>
   <tr>
     <td align="right"><b>Banco</b></td>
