@@ -12,31 +12,48 @@
 
 <div align="center">
 <table>
-<tr>
-<td>
-<pre>
-SYSTEM.INFO
-────────────────────────────────────
-
-Subject    : Caio Vinicius
-Role       : Full Stack Developer
-Origin     : Salvador, BA - Brasil
-Education  : ADS @ UniJorge
-Status     : Open to freelance
-
-Lang       : JS/TS, Java, C, Python
-Front      : HTML, CSS, React
-Back       : Node.js, Express
-Database   : MySQL
-Infra      : Git, GitHub, Vercel
-IDEs       : VS Code, IntelliJ, PyCharm,
-             CLion, WebStorm
-</pre>
-</td>
-</tr>
+  <tr>
+    <td align="right"><b>Role</b></td>
+    <td>Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Origin</b></td>
+    <td>Salvador, BA - Brasil</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Education</b></td>
+    <td>ADS @ UniJorge</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Status</b></td>
+    <td>Open to freelance</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,java,c,py&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Banco</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>IDEs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,webstorm&theme=dark" /></td>
+  </tr>
 </table>
 </div>
-
 ---
 
 <h2>✨ What Sets Me Apart</h2>
