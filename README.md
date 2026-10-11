@@ -8,8 +8,6 @@
 
 ---
 
-<div>
-
 ## 🛠️ Tech Stack
 
 ```
@@ -39,8 +37,6 @@ Grid.LinkedIn   : /in/Caio Vinicius
 Grid.GitHub     : github.com/caioba19
 Grid.Instagram  : @_caio.vn
 ```
-
-</div>
 
 ---
 <h2>✨ What Sets Me Apart</h2>
