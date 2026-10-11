@@ -42,11 +42,21 @@
   </tr>
   <tr>
     <td align="right"><b>Banco</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+      <img src="https://img.shields.io/badge/Aiven-FF3554?style=flat-square&logo=aiven&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Infra</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Deploy</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>IDEs</b></td>
@@ -54,6 +64,7 @@
   </tr>
 </table>
 </div>
+
 ---
 
 <h2>✨ What Sets Me Apart</h2>
