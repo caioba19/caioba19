@@ -7,35 +7,38 @@
 </div>
 
 ---
+
 ## 🛠️ Tech Stack
 
-```
-╭─ SYSTEM.INFO ──────────────────────────────╮
-│                                            │
-│ Subject    : Caio Vinicius                 │
-│ Role       : Full Stack Developer          │
-│ Origin     : Salvador, BA - Brasil         │
-│ Education  : ADS @ UniJorge                │
-│ Status     : Open to freelance             │
-│ ToolChain  : VS Code, IntelliJ, PyCharm,   │
-│              CLion, WebStorm               │
-│                                            │
-│ Core.Lang      : JS/TS, Java, C, Python    │
-│ Core.Front     : HTML, CSS, React          │
-│ Core.Backend   : Node.js, Express          │
-│ Core.Database  : MySQL                     │
-│ Core.Infra     : Git, GitHub, Vercel       │
-│                                            │
-├─ CONTACT ──────────────────────────────────┤
-│                                            │
-│ Grid.Mail       : caiov19.2015@gmail.com   │
-│ Grid.LinkedIn   : /in/Caio Vinicius        │
-│ Grid.GitHub     : github.com/caioba19      │
-│ Grid.Instagram  : @_caio.vn                │
-│                                            │
-╰────────────────────────────────────────────╯
-```
+<div align="center">
+<table>
+<tr>
+<td>
+<pre>
+SYSTEM.INFO
+────────────────────────────────────
+
+Subject    : Caio Vinicius
+Role       : Full Stack Developer
+Origin     : Salvador, BA - Brasil
+Education  : ADS @ UniJorge
+Status     : Open to freelance
+
+Lang       : JS/TS, Java, C, Python
+Front      : HTML, CSS, React
+Back       : Node.js, Express
+Database   : MySQL
+Infra      : Git, GitHub, Vercel
+IDEs       : VS Code, IntelliJ, PyCharm,
+             CLion, WebStorm
+</pre>
+</td>
+</tr>
+</table>
+</div>
+
 ---
+
 <h2>✨ What Sets Me Apart</h2>
 <table>
   <tr>
@@ -80,18 +83,18 @@
 
 <h2>🌍 Open to Opportunities</h2>
 
-<pre>  
+<pre>
 Roles:
 - Systems Analysis and Development
 - Full Stack Developer
 - Backend (Node.js / .Net)
 - Frontend (React / Next.js)
-  
+
 Model:
 - Remote
 - Hybrid
 - On-site
-  
+
 Location:
 Salvador, BA — Brazil
 </pre>
