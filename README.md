@@ -29,12 +29,8 @@
     <td>Open to freelance</td>
   </tr>
   <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,java,c,py&theme=dark" /></td>
-  </tr>
-  <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,js,ts&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" /></td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
